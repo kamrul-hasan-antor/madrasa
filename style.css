@@ -1,0 +1,16 @@
+.carousel_header {
+  height: 100vh;
+}
+.carousel_content {
+  height: 100%;
+}
+.carousel_content p {
+  height: 10%;
+}
+
+.users {
+  list-style: circle;
+}
+.developers {
+  margin: 0;
+}
